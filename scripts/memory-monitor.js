@@ -69,7 +69,7 @@ function updateMonitorState(enabled) {
 Hooks.once("init", () => {
   game.settings.register("memory-monitor", "enabled", {
     name: "Enable Memory Monitor",
-    hint: "Toggle whether the memory monitor is displayed during gameplay.",
+    hint: "Toggle whether the memory monitor is displayed during gameplay. Shortcut ctrl + m",
     scope: "client",
     config: true,
     type: Boolean,
