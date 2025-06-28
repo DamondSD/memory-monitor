@@ -3,7 +3,7 @@
   "title": "Memory Monitor",
   "description": "Displays current memory usage during gameplay.",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "Damond Shadowdrake",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "12",
   "scripts": ["scripts/memory-monitor.js"],
