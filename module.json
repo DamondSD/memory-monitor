@@ -8,6 +8,6 @@
   "compatibleCoreVersion": "12",
   "scripts": ["scripts/memory-monitor.js"],
   "styles": ["styles/memory-monitor.css"],
-  "manifest": "https://yourdomain.com/path/to/module.json",
+  "manifest": "https://https://github.com/DamondSD/memory-monitor/blob/main/module.json",
   "download": "https://yourdomain.com/path/to/memory-monitor.zip"
 }
