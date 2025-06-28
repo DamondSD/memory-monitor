@@ -9,5 +9,4 @@
   "scripts": ["scripts/memory-monitor.js"],
   "styles": ["styles/memory-monitor.css"],
   "manifest": "https://raw.githubusercontent.com/DamondSD/memory-monitor/main/module.json",
-  "download": "https://yourdomain.com/path/to/memory-monitor.zip"
-}
+  "download": "https://github.com/DamondSD/memory-monitor/releases/latest/download/memory-monitor.zip"
