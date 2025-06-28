@@ -1,0 +1,10 @@
+#memory-monitor {
+  padding: 4px 8px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-size: 12px;
+  border-radius: 4px;
+  font-family: sans-serif;
+  pointer-events: none;
+  z-index: 100;
+}
