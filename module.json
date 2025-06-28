@@ -1,7 +1,7 @@
 {
   "name": "memory-monitor",
   "title": "Memory Monitor",
-  "description": "Displays current memory usage during gameplay.",
+  "description": "Displays current memory usage during gameplay. ctrl + m to toggle",
   "version": "1.0.0",
   "author": "Damond Shadowdrake",
   "minimumCoreVersion": "11",
